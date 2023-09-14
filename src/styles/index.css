@@ -1,0 +1,14 @@
+/**
+* ? SectionOne rules
+*/
+
+.sectionOne__left--text {
+  font-size: var(--body);
+  font-family: var(--font-2);
+  color: var(--color-white-100);
+}
+
+.sectionOne__left--btn {
+  align-self: start;
+  margin-top: 20px;
+}
